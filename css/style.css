@@ -42,6 +42,7 @@ div{
     border-width: 0px 0px 2px 5px;
     border-color: #FFFFFF;
     border-style: solid;
+    padding: 20px;
 }
 .blue{
     background-color: 	#0000FF;
@@ -50,6 +51,7 @@ div{
     border-width: 2px 5px 0px 0px;
     border-color: #FFFFFF;
     border-style: solid;
+    padding: 20px;
 }
 .blue p{
     color: #C4C4C4;
@@ -65,17 +67,19 @@ div{
     border-width: 0px 0px 2px 5px;
     border-color: #FFFFFF;
     border-style: solid;
+    padding: 20px;
 }
 .yellow p{
     color: #707070;
 }
 .green{
-    background-color: #00D800;
+    background-color:	#008000;
     text-align: left;
     margin-right: 50px;
     border-width: 2px 5px 0px 0px;
     border-color: #FFFFFF;
     border-style: solid;
+    padding: 20px;
 }
 footer{
     background: linear-gradient(90deg, #000000 0%,  #0000ff 25%,  #0066ff 70%, #000000);
